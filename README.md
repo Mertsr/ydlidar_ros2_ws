@@ -228,13 +228,6 @@ Parametreler: `src/ydlidar_ros2_driver/params/ydlidar.yaml`
 
 ---
 
-## 📝 Lisans
-
-MIT License
-
----
-
-**Hazırlayan:** Mertsr  
-**Versiyon:** 1.0.1  
+**Hazırlayan:** Mertsr   
 **ROS2:** Humble  
 **Python:** 3.10+
